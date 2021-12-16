@@ -1,10 +1,8 @@
 # Object-Molder
 3D Space where you can place, move, rotate and scale different objects 
 
-Thomas Britnell - 400129897
-Etian Yehuda - 400117972
-
-Assignment 4
+Etian Yehuda,
+Thomas Britnell
 
 *PPM processing code was taken from lecture code*
 
