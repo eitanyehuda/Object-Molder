@@ -1,9 +1,11 @@
 # Object-Molder
 3D Space where you can place, move, rotate and scale different objects.
 
-Ray Tracing to select objects, lighting, textures and matrix transformations.
-
 ![Screenshot1](https://user-images.githubusercontent.com/23744162/146408046-af30864d-3a06-4e13-9436-48c31286a954.png)
+![Screenshot2](https://user-images.githubusercontent.com/23744162/146408732-eb389660-9681-4776-b353-b177ee0f7450.png)
+
+Ray Tracing used to select objects with mouse, lighting, textures and matrix transformations.
+Movement around world with middle mouse button and multiple objects can be selected
 
 Etian Yehuda,
 Thomas Britnell
