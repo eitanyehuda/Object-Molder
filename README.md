@@ -1,5 +1,9 @@
 # Object-Molder
-3D Space where you can place, move, rotate and scale different objects 
+3D Space where you can place, move, rotate and scale different objects.
+
+Ray Tracing to select objects, lighting, textures and matrix transformations.
+
+![Screenshot1](https://user-images.githubusercontent.com/23744162/146408046-af30864d-3a06-4e13-9436-48c31286a954.png)
 
 Etian Yehuda,
 Thomas Britnell
